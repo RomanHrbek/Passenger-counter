@@ -36,3 +36,6 @@ button {
     background: darkgreen;
 }
 
+#reset-btn {
+    background: rgb(145, 145, 22);
+}
